@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+    "extensions": {
+        "recommendations": [
+            "codeium.codeium",
+            "ucsoftware.css-organizer"
+        ]
+    }
+}
