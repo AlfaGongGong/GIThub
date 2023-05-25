@@ -9,5 +9,8 @@
             "codeium.codeium",
             "ucsoftware.css-organizer"
         ]
+    },
+    "settings": {
+        "liveServer.settings.useWebExt": true
     }
 }
