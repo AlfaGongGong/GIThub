@@ -7,7 +7,18 @@
     "extensions": {
         "recommendations": [
             "codeium.codeium",
-            "ucsoftware.css-organizer"
+            "ucsoftware.css-organizer",
+            "gurayyarar.dummytextgenerator",
+            "olamilekanajibola.css-selector-generator",
+            "waleedj1699.css-dictionary",
+            "bonham000.css-sort-classname",
+            "sidthesloth.html5-boilerplate",
+            "geyao.html-snippets",
+            "visualstudioexptteam.vscodeintellicode",
+            "azuriru.js-grammar-fix",
+            "glenn2223.live-sass",
+            "yandeu.five-server",
+            "tabnine.tabnine-vscode"
         ]
     },
     "settings": {
