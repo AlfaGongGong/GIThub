@@ -24,6 +24,10 @@
     "settings": {
         "liveServer.settings.useWebExt": true,
         "compile-hero.disable-compile-files-on-did-save-code": false,
-        "files.simpleDialog.enable": true
+        "files.simpleDialog.enable": true,
+        "files.autoSave": "onWindowChange",
+        "editor.tabSize": 6,
+        "editor.insertSpaces": false,
+        "editor.accessibilitySupport": "off"
     }
 }
