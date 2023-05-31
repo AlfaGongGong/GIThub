@@ -28,6 +28,8 @@
         "files.autoSave": "onWindowChange",
         "editor.tabSize": 6,
         "editor.insertSpaces": false,
-        "editor.accessibilitySupport": "off"
+        "editor.accessibilitySupport": "off",
+        "diffEditor.wordWrap": "on",
+        "diffEditor.ignoreTrimWhitespace": false
     }
 }
