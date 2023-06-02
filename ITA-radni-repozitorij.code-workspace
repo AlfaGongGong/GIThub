@@ -30,6 +30,8 @@
         "editor.insertSpaces": false,
         "editor.accessibilitySupport": "off",
         "diffEditor.wordWrap": "on",
-        "diffEditor.ignoreTrimWhitespace": false
+        "diffEditor.ignoreTrimWhitespace": false,
+        "gformathtml.forceWrapAttributes": true,
+        "gformathtml.singleQuote": true
     }
 }
