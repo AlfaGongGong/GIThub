@@ -1,4 +1,4 @@
 {
     "vhvw-converter.viewportWidth": 1920,
-    "Codegeex.CompletionDelay": 2
+    "tabnine.debounceMilliseconds": 200
 }
