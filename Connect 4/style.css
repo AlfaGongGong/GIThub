@@ -67,14 +67,12 @@ table.board {
       width: -webkit-max-content;
       width: -o-max-content;
       width: -ms-max-content;
-
       height: auto;
       height: max-content;
       height: -moz-max-content;
       height: -webkit-max-content;
       height: -o-max-content;
       height: -ms-max-content;
-
       display: flex;
       flex-wrap: wrap;
       align-items: center;
